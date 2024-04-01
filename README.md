@@ -31,4 +31,6 @@ python -m ipykernel install --user --name=ultralytics-env
 ## Run TestYOLOObjectDetection.ipynb within Jupyter Lab 
 `jupyter lab`
 
-![screenshot](AnnotatedVideoFrame.png)
+<p align="center">
+  <img src="AnnotatedVideoFrame.PNG" width="350" title="hover text">
+</p>
